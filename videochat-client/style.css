@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background: #111;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+#videos {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+video {
+  width: 45%;
+  border: 2px solid #fff;
+  margin: 10px;
+  border-radius: 10px;
+}
